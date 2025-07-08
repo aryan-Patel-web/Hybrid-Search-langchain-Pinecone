@@ -1,4 +1,4 @@
-feat: add hybrid search with Pinecone retriever and example query
+
 
 
 
