@@ -1,7 +1,3 @@
-
-
-
-
 # 🔍 Hybrid Search with LangChain and Pinecone
 
 This project demonstrates how to build **hybrid search** combining:
